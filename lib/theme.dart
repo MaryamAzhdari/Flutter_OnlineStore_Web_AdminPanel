@@ -7,9 +7,9 @@ const Color primaryColorDark =
 class AppTheme {
   AppTheme._();
 
-  // *****************
+  // ******************
   // static colors
-  // *****************
+  // ******************
   static const Color _lightPrimaryColor = Color.fromARGB(255, 255, 255, 255);
   static final Color _lightPrimaryVariantColor = Colors.blueGrey.shade800;
   static final Color _lightOnPrimaryColor = Colors.blueGrey.shade200;
